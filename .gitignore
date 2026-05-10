@@ -13,7 +13,7 @@
 data/
 
 # Ignore the virtual environment
-venv/
+arishi.venv/
 
 # Optional: Ignore Python cache files
 __pycache__/
