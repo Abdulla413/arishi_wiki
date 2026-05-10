@@ -1,0 +1,20 @@
+# Ignore the source data folder
+/media/abdulla-arishi/Volume/arishi.wiki/data/
+
+# Ignore the processed output folder
+/media/abdulla-arishi/Volume/arishi.wiki/data/
+
+# General rule to ignore all word and text files if they are in your workspace
+*.docx
+*.doc
+*.txt
+
+# Ignore the data folder
+data/
+
+# Ignore the virtual environment
+venv/
+
+# Optional: Ignore Python cache files
+__pycache__/
+*.pyc
