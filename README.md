@@ -1,10 +1,3 @@
-Got it! Since you're fine with the `README.md` format, we can make it look much more professional on GitHub while clearly explaining your "Python + AI" pipeline. This will help anyone visiting your repository understand that you aren't just converting files, but using a sophisticated hybrid workflow.
-
-Here is the finalized content for your **README.md**:
-
----
-
-```markdown
 # Arishi Wiki Project 📚
 
 ## Project Overview | تۈر ھەققىدە
