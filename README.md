@@ -35,21 +35,6 @@ Das Arishi Wiki Projekt nutzt eine fortschrittliche Pipeline zur Datenverarbeitu
 
 Dieser Ansatz ermöglicht die effiziente Digitalisierung und Bewahrung des uigurischen Kulturerbes[cite: 1].
 
-```
-
----
-
-### How to apply this change:
-
-1. **Edit the file:** `nano README.md`
-2. **Paste** the content above.
-3. **Save and Sync:**
-```bash
-git add README.md
-git commit -m "Finalize professional README with AI workflow"
-git push origin main
-
-```
 
 
 
